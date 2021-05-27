@@ -4,7 +4,7 @@
 2. Una vez creada la estructura, se deberá incluir en la pantalla welcome (bienvenida) el listado de los productos en una tabla. 
 3. Adicionar un botón al final de cada registro para eliminar el producto del listado. 
 4. Mostrar un mensaje por pantalla con el registro que fue eliminado. 5. Para mostrar u ocultarla usar *ngIf=”mostrarMensaje” ejemplo:  
-'<div ngIf=”mostarMensaje”>aquí va el mensaje</div>'
+```'<div ngIf=”mostarMensaje”>aquí va el mensaje</div>'```
 
 ##  Tabla con lista de productos:
 <a href="https://ibb.co/Bc5D5cg"><img src="https://i.ibb.co/DzHXHz7/pantalla1.png" alt="pantalla1" border="0"></a>
